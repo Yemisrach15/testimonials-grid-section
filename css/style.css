@@ -84,7 +84,7 @@ article:nth-child(2) img, article:nth-child(3) img, article:nth-child(5) img{
         grid-template-rows: repeat(2, auto);
         margin-top: 7em;
         min-width: 730px;
-        max-width: 100%;
+        max-width: 1180px;
         width: 77%;
     }
     article:nth-child(1){
